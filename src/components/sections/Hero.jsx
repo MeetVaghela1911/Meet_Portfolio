@@ -22,7 +22,7 @@ const Hero = () => {
 
       <div className="text-center z-10 px-6 max-w-4xl mx-auto">
         <div className="animate-fade-in">
-          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-6">
+          <h1 className="text-4xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-6">
             <span className="block text-gray-800 mb-2">Hi, I'm</span>
             <span className="bg-gradient-to-r from-[#133c55] via-[#386fa4] to-[#386fa4] bg-clip-text text-transparent">
               Meet Vaghela
