@@ -1,33 +1,25 @@
-# Welcome to your Lovable project
+# Project Documentation
 
-## Project info
+## Project Info
 
-**URL**: https://lovable.dev/projects/55583bb1-86ce-4f21-9a29-b419dcab84d2
+This is a modern web application built with cutting-edge technologies for optimal performance and developer experience.
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/55583bb1-86ce-4f21-9a29-b419dcab84d2) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
+There are several ways of editing your application:
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+If you want to work locally using your own IDE, you can clone this repo and push changes. The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone <your-repo-url>
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd <project-directory>
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -62,12 +54,8 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/55583bb1-86ce-4f21-9a29-b419dcab84d2) and click on Share -> Publish.
+Deploy your application using your preferred hosting platform such as Vercel, Netlify, GitHub Pages, or any other service of your choice.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my project?
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Yes, you can connect a custom domain to your deployed project. The process depends on your hosting provider. Refer to your hosting provider's documentation for detailed steps on connecting a custom domain.
